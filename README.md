@@ -21,29 +21,29 @@ REST API built with Node.js, Express, MongoDB (Mongoose) and dotenv.
 ## Postman Screenshots
 
 ### 1. Get All Products (GET)
-![List](Assignment_3/screenshots/list.png)
+![List](screenshots/list.png)
 
 ### 2. Create Product (POST)
-![Create](Assignment_3/screenshots/create.png)
+![Create](screenshots/create.png)
 
 ### 3. Get All Products after Create (GET)
-![List After Create](Assignment_3/screenshots/list-after-create.png)
+![List After Create](screenshots/list-after-create.png)
 
 ### 4. Update Product (PUT)
-![Update](Assignment_3/screenshots/update.png)
+![Update](screenshots/update.png)
 
 ### 5. Stock Adjustment (PATCH)
-![Stock](Assignment_3/screenshots/stock.png)
+![Stock](screenshots/stock.png)
 
 ### 6. Low-Stock Report (GET)
 ![Low Stock](screenshots/low-stock.jpeg)
 
 ### 7. Category Summary (GET)
-![Summary](Assignment_3/screenshots/low-stock.png)
+![Summary](screenshots/low-stock.png)
 
 ### 8. Delete Product (DELETE)
-![Delete](Assignment_3/screenshots/delete.png)
+![Delete](screenshots/delete.png)
 ### 9. Filter + Sort + Pagination (GET)
-![Filter Sort](Assignment_3/screenshots/filter-sort.png)
+![Filter Sort](screenshots/filter-sort.png)
 ### 10. Get Single Product by ID (GET)
-![Get One](Assignment_3/screenshots/get-one.png)
+![Get One](screenshots/get-one.png)
